@@ -63,10 +63,12 @@ No MTTFmin can be decided for this plot because even though the SUT becomes acce
 
 
 ### Advantages and Disadvantages of RDC
+A reliability demo chart (RDC) is a very cost-efficient and effective way of assessing system reliability. The assessment it produces can aid in making important decisions. Another advantage is that an RDC is a good visual way of looking at the system reliability metrics and is simple to interpret. However, a major limitation with RDC is that it cannot quantitatively assess the system reliability because it just shows the trend of changes that affect the reliability over time. Another disadvantage is that varying MTTF values for different scenarios are very tedious when it comes to the reliability demo chart.
 
 ## **Discussion**
 
 ### Comparison of the results with Part 1
+The results in part 1 show higher rates of failure initially. The graph then starts to even out with failure rates not being as low averaging out at about 4. Furthermore, the results in part 2 consist of 3 plots. The first plot is with MTTF min and this plot shows the majority of points in the “continuous test” range as well as the “accept” test range. The second plot is twiceMTTFmin and in this plot, with initial failure numbers high (11) but the points further on being somewhat in the “continuous test” range and then many in the “accept” region. Lastly, the third plot in part 2 is the majority of the points in the yellow range and just a few in the green and red zones. This shows how the RDC changes with respect to the MTTF.
 
-### A discussion on the similarities and differences between the two techniques. Any lessons learned in this lab?
-
+### A Discussion on the Similarities and Differences between the Two Techniques and Lessons Learned in this Lab?
+Some similarity between the two techniques is that the target failure rates can be visually interpreted in similar ways. This allows the graphs to represent similar information effectively. However, a difference is that the plot in part 1 can better quantify the data and the failure information whereas the RDCs are better visual representations. Some lessons we learned during this lab were mainly how to generate the graphs CSTRAT. Mainly how to interpret the best model for each type of failure distribution. In addition, we also learned how to make informed decisions about the software based on the chosen model to represent these failures.
