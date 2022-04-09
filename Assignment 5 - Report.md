@@ -1,3 +1,20 @@
+# Course Title: Software Testing, Reliability, and Quality
+#### Course Code: SENG 438
+#### Assignment #: 5
+
+#### Group Number: 31
+#### Submission Date: 4/08/2022
+
+### Student Names:
+#### Aashik Ilangovan (30085993)
+#### Emmanuel Omari-Osei (30092729)
+#### Gibran Akmal (30094918)
+#### Priyanka Gautam (30091244)
+
+## **Introduction**
+
+The objective of this lab is to gain familiarity with Software Quality and Reliability Assesment Tools. This lab is composed of two parts; the first’s focus being on Reliability Growth Testing and the second’s focus being on RDC Demo Charts.
+
 ## **Reliability Growth Testing**
 ### Result of Model Comparison
 *(Top Two Models)*</br>
